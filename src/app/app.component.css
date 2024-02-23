@@ -1,3 +1,16 @@
 .example-spacer {
     flex: 1 1 auto;
 }
+
+.toolbar {
+    background-color: #FFFFFF;   
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.bg-content {
+    background-color: #F5F5F5;   
+}
+
+.sidenav{
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}  
